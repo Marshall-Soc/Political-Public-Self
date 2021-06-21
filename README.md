@@ -1,6 +1,6 @@
 # The Role of Personal Availability and Gender in Negative Online Congressional Campaigning: Reproduction Guide
 
-[Marshall A. Taylor](marshalltaylor.net)
+[Marshall A. Taylor](https://www.marshalltaylor.net)
 
 This repository contains all R code necessary to reproduce the analysis in "The Role of Personal Availability and Gender in Negative Online Congressional Campaigning," forthcoming in *Political Behavior*. You can access a pre-print of the paper [here](https://osf.io/g94m7/).
 
